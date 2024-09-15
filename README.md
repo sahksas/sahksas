@@ -2,7 +2,7 @@
 
 Hi, I'm Baku Sato, a frontend engineer.
 
-<img src="https://github.com/user-attachments/assets/f22a8d44-942e-48ad-b995-f485cb56bba1" width="240">
+![IMG_5473](https://github.com/user-attachments/assets/da5d9fdf-3b6d-42d9-a99b-d83c6740e814)
 
 I live with the two cutest cats in the world. I couldn't get a perfect picture of one of them this time, but I'll add it later (don't worry, I got their permission to take the photos, of course).
 
