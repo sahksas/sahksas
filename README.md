@@ -2,8 +2,10 @@
 
 Hi, I'm Baku Sato, a frontend engineer.
 
-<img src="./img/uma.png" width="240">
-<img src="./img/ebe.png" width="240">
+<div style="display: flex;">
+  <img src="./img/uma.png" width="240" style="margin-right: 10px;">
+  <img src="./img/ebe.png" width="240">
+</div>
 
 I live with the two cutest cats in the world. (don't worry, I got their permission to take the photos, of course.)
 
