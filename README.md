@@ -3,8 +3,9 @@
 Hi, I'm Baku Sato, a frontend engineer.
 
 <img src="./img/uma.png" width="240">
+<img src="./img/ebe.png" width="240">
 
-I live with the two cutest cats in the world. I couldn't get a perfect picture of one of them this time, but I'll add it later (don't worry, I got their permission to take the photos, of course).
+I live with the two cutest cats in the world. (don't worry, I got their permission to take the photos, of course.)
 
 At work, I use a variety of programming languages, but in my personal projects, I mainly stick to JavaScript-based frontend frameworks.
 
