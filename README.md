@@ -19,9 +19,9 @@ At work, I use a variety of programming languages, but in my personal projects, 
 
 ### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,remix,react,sass,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,remix,react,tailwind,sass)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,graphql,jest,figma,tailwind,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,vercel,figma,graphql,jest,selenium,prisma)](https://skillicons.dev)
 
 Feel free to reach out anytime 😻
 
