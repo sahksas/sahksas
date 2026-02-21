@@ -3,12 +3,7 @@
 </div>
 
 <div align=center style="display: flex;">
-  <a href="https://baku.world/">
-    <img src="https://img.shields.io/badge/-my_homepage-233859.svg?logo=&style=for-the-badge" />
-  </a>
-  <a href="https://www.drupal.org/u/sahksas">
-    <img src="https://img.shields.io/badge/-drupal.org-0678BE.svg?logo=drupal&style=for-the-badge" />
-  </a>
+  <a href="https://baku.world/"><img src="https://img.shields.io/badge/-my_homepage-233859.svg?logo=&style=for-the-badge" /></a><img src="https://raw.githubusercontent.com/nicholasgasior/gist-files/master/pixel.png" width="4" height="1" /><a href="https://www.drupal.org/u/sahksas"><img src="https://img.shields.io/badge/-drupal.org-0678BE.svg?logo=drupal&style=for-the-badge" /></a>
 </div>
 
 <p></p>
