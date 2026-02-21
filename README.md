@@ -1,41 +1,39 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-Hi, I'm Baku Sato, a frontend engineer.
-
-<div style="display: flex;">
-  <img src="./img/uma.png" width="240" style="margin-right: 10px;">
-  <img src="./img/ebe.png" width="240">
+<div align=center style="display: flex;">
+  <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there</h2>
 </div>
 
-I live with the two cutest cats in the world. (don't worry, I got their permission to take the photos, of course.)
-
-At work, I use a variety of programming languages, but in my personal projects, I mainly stick to JavaScript-based frontend frameworks.
-
-### 🥇 Top languages
-
-<div align="left">
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahksas&theme=swift&layout=compact" />
+<div align=center style="display: flex;">
+  <a href="https://baku.world/">
+    <img src="https://img.shields.io/badge/-my_homepage-233859.svg?logo=&style=for-the-badge" />
+  </a>
+  <a href="https://www.drupal.org/u/sahksas">
+    <img src="https://img.shields.io/badge/-drupal.org-0678BE.svg?logo=drupal&style=for-the-badge" />
+  </a>
 </div>
+
+<p></p>
+
+<div align=center style="display: flex;">
+  <img src="https://github.com/sahksas/sahksas/blob/main/img/ebe_and_uma.webp?raw=true" width="480"  />
+</div>
+
+## :technologist: About Me
+
+I live at home with my cats, the world's cutest, coolest, and most lovably adorable family.
+About 90% of my waking hours are spent with my hands on either a keyboard or my cats.
+
+At work, I use various programming languages, but for personal projects, I mainly utilize JavaScript-based frontend frameworks.
 
 ### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,nextjs,remix,react,tailwind,sass)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,php,python,nodejs,next,remix,astro,react,tailwind,sass,twig,vscode,docker,drupal,vercel,figma,graphql,playwright,jest&perline=12&titles=true)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,vercel,figma,graphql,jest,selenium,prisma)](https://skillicons.dev)
+### 🥇 Github Stats
+
+<div align="left">
+  <img alt="github stats" height="170px" src="https://github-readme-stats-seven-rust-25.vercel.app/api?username=sahksas&rank_icon=github&bg_color=30,0061ff,60efff&title_color=fff&text_color=fff" />
+</div>
+
+---
 
 Feel free to reach out anytime 😻
-
-<!--
-**sahksas/sahksas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
